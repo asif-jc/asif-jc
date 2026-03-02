@@ -2,7 +2,7 @@
 
 # Hey, I'm Asif
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6E57F7&center=true&vCenter=true&width=500&lines=Data+Engineer+%26+ML+Practitioner;Building+systems+that+learn.;From+raw+data+to+real+decisions." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6E57F7&center=true&vCenter=true&width=650&lines=building+things+with+data;somewhere+between+the+data+and+the+decision;research+that+ships;useful+%3E+accurate;end+to+end%2C+or+nothing;i+actually+enjoy+data+analytics+and+machine+learning;curious+by+default" alt="Typing SVG" />
 
 <br/>
 
@@ -14,18 +14,14 @@
 
 ---
 
-## About
-
-<!-- PLACEHOLDER: 3–5 sentences. What you work on, what you care about, what you're building or exploring right now. Keep it honest and specific — not a CV, a voice. -->
-
----
-
 ## Stack
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **ML / Data**
 
@@ -40,16 +36,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## Featured Projects
-
-|   | Project | Description | Stack |
-|---|---------|-------------|-------|
-| 🔬 | **[Project One](#)** | <!-- Short pitch: what it does and why it matters --> | Python · PyTorch |
-| 📊 | **[Project Two](#)** | <!-- Short pitch: what it does and why it matters --> | dbt · SQL |
-| 🤖 | **[Project Three](#)** | <!-- Short pitch: what it does and why it matters --> | scikit-learn · Pandas |
 
 ---
 
