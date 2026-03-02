@@ -43,8 +43,6 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asif-jc&theme=tokyonight&no-frame=true&column=6&margin-w=8)](https://github.com/asif-jc)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asif-jc&theme=tokyo-night&hide_border=true&area=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=asif-jc&theme=tokyonight&hide_border=true)
