@@ -1,16 +1,88 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**asif-jc/asif-jc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Asif
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6E57F7&center=true&vCenter=true&width=500&lines=Data+Engineer+%26+ML+Practitioner;Building+systems+that+learn.;From+raw+data+to+real+decisions." alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif-cheena/)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=asif-jc&color=6E57F7&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## About
+
+<!-- PLACEHOLDER: 3–5 sentences. What you work on, what you care about, what you're building or exploring right now. Keep it honest and specific — not a CV, a voice. -->
+
+---
+
+## Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**ML / Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+**Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Featured Projects
+
+|   | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 🔬 | **[Project One](#)** | <!-- Short pitch: what it does and why it matters --> | Python · PyTorch |
+| 📊 | **[Project Two](#)** | <!-- Short pitch: what it does and why it matters --> | dbt · SQL |
+| 🤖 | **[Project Three](#)** | <!-- Short pitch: what it does and why it matters --> | scikit-learn · Pandas |
+
+---
+
+## Stats
+
+<div align="center">
+
+![Asif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asif-jc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asif-jc&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=asif-jc&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"All models are wrong, but some are useful."*
+<br/>— George E.P. Box
+
+<br/>
+
+*"It's not that I'm so smart, it's just that I stay with problems longer."*
+<br/>— Albert Einstein
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/asif-jc/asif-jc/output/github-contribution-grid-snake-dark.svg)
+
+</div>
