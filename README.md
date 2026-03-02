@@ -43,30 +43,19 @@
 
 <div align="center">
 
+![GitHub Streak](https://streak-stats.demolab.com?user=asif-jc&theme=tokyonight&hide_border=true)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asif-jc&theme=tokyo-night&hide_border=true&area=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=asif-jc&theme=tokyonight&hide_border=true)
+![Snake animation](https://raw.githubusercontent.com/asif-jc/asif-jc/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
 <div align="center">
-
-*"All models are wrong, but some are useful."*
-<br/>— George E.P. Box
-
-<br/>
 
 *"It's not that I'm so smart, it's just that I stay with problems longer."*
 <br/>— Albert Einstein
-
-</div>
-
----
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/asif-jc/asif-jc/output/github-contribution-grid-snake-dark.svg)
 
 </div>
