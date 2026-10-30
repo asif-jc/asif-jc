@@ -3,10 +3,10 @@
 <br/>
 
 <!-- Rendered as an SVG rather than a markdown "#" heading: GitHub draws a rule under every h1, which crowded the name.
-     Colours are the snake grid's own greens (#00c647 brightest dark cell, #30a14e light), so the name ties to the snake below. -->
+     "Hey, I'm" matches the quote's purple; "Asif" uses the snake grid's greens (#00c647 dark, #30a14e light) to tie it to the snake below. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=1800&pause=100000&color=00C647&center=true&vCenter=true&repeat=false&width=850&height=90&lines=Hey%2C+I'm+Asif" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=1800&pause=100000&color=30A14E&center=true&vCenter=true&repeat=false&width=850&height=90&lines=Hey%2C+I'm+Asif" alt="Hey, I'm Asif" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <img src="assets/header-light.svg" alt="Hey, I'm Asif" />
 </picture>
 
 <br/>
