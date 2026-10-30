@@ -35,5 +35,11 @@
 ---
 
 <!-- align="left"/"right" because GitHub strips CSS; floats are the only way to pin badges to opposite corners. -->
-<a href="https://www.linkedin.com/in/asif-cheena/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/asif-cheena/"><img align="left" src="https://img.shields.io/badge/LinkedIn-6E57F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=asif-jc&color=6E57F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+
+<!-- width="100%" makes the wave too wide to sit beside the floated badges, so it drops onto its own row beneath them. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=00C647" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=30A14E" alt="" />
+</picture>
